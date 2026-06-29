@@ -16,15 +16,15 @@
                             ╔═══════════════════════════════════════════════════════════════════╗
                             ║                    BYLICKILABS | NorthSaga                        ║
                             ║                                                                   ║
-                            ║     FOUNDER | FULL STACK ENGINEER | CLOUD & SECURITY ARCHITECT    ║
+                            ║     Senior Blockchain | FULL STACK | Mobile & Ai Developer    ║
                             ╚═══════════════════════════════════════════════════════════════════╝
 
-Hi, I’m **Thorsten Bylicki**  
+Hi, I’m **Jeremy Reyes**  
 Founder and architect of systems that don’t just function but understand.
 
 I design and engineer secure, scalable, cloud native systems across the entire stack from interface to infrastructure.
 
-📍 Germany  
+📍 Santa Clara . California . United States
 🚀 Leading innovation driven engineering initiatives  
 ⚙ Focus: Encryption • Algorithmic Optimization • Forensic Automation • Cloud Architecture
 
